@@ -36206,17 +36206,9 @@ var staticRenderFns = [
           _vm._v("Laravel & Vuejs SPA Admin Starter")
         ]),
         _vm._v(" "),
-        _c(
-          "a",
-          {
-            staticClass: "purchase",
-            attrs: {
-              href:
-                "https://themeforest.net/item/pongo-simple-clean-admin-template/20122843"
-            }
-          },
-          [_vm._v("Purchase Now")]
-        )
+        _c("a", { staticClass: "purchase", attrs: { href: "" } }, [
+          _vm._v("Purchase Now")
+        ])
       ])
     ])
   }
@@ -41445,7 +41437,10 @@ var staticRenderFns = [
         _c("div", { staticClass: "invoice-info" }, [
           _c("div", { staticClass: "company-info" }, [
             _c("img", {
-              attrs: { alt: "pongo", src: "/app/images/logo-blue.png" }
+              attrs: {
+                alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                src: "/app/images/logo-blue.png"
+              }
             }),
             _vm._v(" "),
             _c("div", { staticClass: "company-name" }, [
@@ -41562,7 +41557,10 @@ var staticRenderFns = [
           _c("div", { staticClass: "row" }, [
             _c("div", { staticClass: "col-md-6" }, [
               _c("img", {
-                attrs: { alt: "pongo", src: "/app/images/logo-blue.png" }
+                attrs: {
+                  alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                  src: "/app/images/logo-blue.png"
+                }
               }),
               _vm._v(" "),
               _c("span", { staticClass: "company-name" }, [
@@ -41669,7 +41667,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box selected" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/chocolate.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/chocolate.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41706,7 +41707,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/asparagus.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/asparagus.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41743,7 +41747,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/belts.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/belts.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41780,7 +41787,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box selected" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/bulldozer.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/bulldozer.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41819,7 +41829,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/belts.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/belts.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41856,7 +41869,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/chocolate.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/chocolate.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41893,7 +41909,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/asparagus.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/asparagus.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41930,7 +41949,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/belts.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/belts.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -41969,7 +41991,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/bulldozer.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/bulldozer.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42006,7 +42031,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/asparagus.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/asparagus.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42043,7 +42071,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/chocolate.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/chocolate.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42080,7 +42111,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/bulldozer.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/bulldozer.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42119,7 +42153,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box selected" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/chocolate.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/chocolate.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42156,7 +42193,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/asparagus.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/asparagus.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42193,7 +42233,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/belts.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/belts.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42230,7 +42273,10 @@ var staticRenderFns = [
             _c("div", { staticClass: "media-box selected" }, [
               _c("div", { staticClass: "media-image" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/bulldozer.jpg" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/bulldozer.jpg"
+                  }
                 }),
                 _vm._v(" "),
                 _c("div", { staticClass: "media-file-size" }, [
@@ -42946,7 +42992,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -42971,7 +43020,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -42997,7 +43046,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43022,7 +43074,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43048,7 +43100,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43073,7 +43128,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43123,7 +43178,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43148,7 +43206,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43174,7 +43232,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43199,7 +43260,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43225,7 +43286,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43250,7 +43314,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43300,7 +43364,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43325,7 +43392,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43351,7 +43418,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43376,7 +43446,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43402,7 +43472,10 @@ var staticRenderFns = [
                         _c("div", { staticClass: "user-on" }),
                         _vm._v(" "),
                         _c("img", {
-                          attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                          attrs: {
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                            src: "/images/profile.jpg"
+                          }
                         })
                       ]),
                       _vm._v(" "),
@@ -43427,7 +43500,7 @@ var staticRenderFns = [
                         _vm._v(" "),
                         _c("img", {
                           attrs: {
-                            alt: "pongo",
+                            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
                             src: "/images/profile-woman.jpg"
                           }
                         })
@@ -43464,7 +43537,10 @@ var staticRenderFns = [
                 _c("div", { staticClass: "message-content" }, [
                   _c("div", { staticClass: "user-image" }, [
                     _c("img", {
-                      attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                      attrs: {
+                        alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                        src: "/images/profile.jpg"
+                      }
                     })
                   ]),
                   _vm._v(" "),
@@ -43500,7 +43576,10 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "user-image" }, [
                     _c("img", {
-                      attrs: { alt: "pongo", src: "/images/profile-woman.jpg" }
+                      attrs: {
+                        alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                        src: "/images/profile-woman.jpg"
+                      }
                     })
                   ])
                 ])
@@ -43514,7 +43593,10 @@ var staticRenderFns = [
                 _c("div", { staticClass: "message-content" }, [
                   _c("div", { staticClass: "user-image" }, [
                     _c("img", {
-                      attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                      attrs: {
+                        alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                        src: "/images/profile.jpg"
+                      }
                     })
                   ]),
                   _vm._v(" "),
@@ -43548,7 +43630,10 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("div", { staticClass: "user-image" }, [
                     _c("img", {
-                      attrs: { alt: "pongo", src: "/images/profile-woman.jpg" }
+                      attrs: {
+                        alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                        src: "/images/profile-woman.jpg"
+                      }
                     })
                   ])
                 ])
@@ -43558,7 +43643,10 @@ var staticRenderFns = [
                 _c("div", { staticClass: "message-content" }, [
                   _c("div", { staticClass: "user-image" }, [
                     _c("img", {
-                      attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                      attrs: {
+                        alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                        src: "/images/profile.jpg"
+                      }
                     })
                   ]),
                   _vm._v(" "),
@@ -43606,7 +43694,10 @@ var staticRenderFns = [
           _c("div", { staticClass: "chat-detail" }, [
             _c("div", { staticClass: "user-detail" }, [
               _c("img", {
-                attrs: { alt: "pongo", src: "/images/profile.jpg" }
+                attrs: {
+                  alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                  src: "/images/profile.jpg"
+                }
               }),
               _vm._v(" "),
               _c("div", { staticClass: "user-name" }, [_vm._v("John Doe")]),
@@ -43654,37 +43745,55 @@ var staticRenderFns = [
               _c("div", { staticClass: "image-list" }, [
                 _c("div", { staticClass: "image-thumbnail" }, [
                   _c("img", {
-                    attrs: { alt: "pongo", src: "/images/asparagus.jpg" }
+                    attrs: {
+                      alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                      src: "/images/asparagus.jpg"
+                    }
                   })
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "image-thumbnail" }, [
                   _c("img", {
-                    attrs: { alt: "pongo", src: "/images/chocolate.jpg" }
+                    attrs: {
+                      alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                      src: "/images/chocolate.jpg"
+                    }
                   })
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "image-thumbnail" }, [
                   _c("img", {
-                    attrs: { alt: "pongo", src: "/images/bulldozer.jpg" }
+                    attrs: {
+                      alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                      src: "/images/bulldozer.jpg"
+                    }
                   })
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "image-thumbnail" }, [
                   _c("img", {
-                    attrs: { alt: "pongo", src: "/images/belts.jpg" }
+                    attrs: {
+                      alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                      src: "/images/belts.jpg"
+                    }
                   })
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "image-thumbnail" }, [
                   _c("img", {
-                    attrs: { alt: "pongo", src: "/images/bulldozer.jpg" }
+                    attrs: {
+                      alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                      src: "/images/bulldozer.jpg"
+                    }
                   })
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "image-thumbnail" }, [
                   _c("img", {
-                    attrs: { alt: "pongo", src: "/images/belts.jpg" }
+                    attrs: {
+                      alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                      src: "/images/belts.jpg"
+                    }
                   })
                 ])
               ])
@@ -100142,10 +100251,10 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "auth-wrapper" }, [
       _c("div", { staticClass: "auth-header" }, [
-        _c("div", { staticClass: "auth-title" }, [_vm._v("Pongo")]),
+        _c("div", { staticClass: "auth-title" }, [_vm._v("Platinum")]),
         _vm._v(" "),
         _c("div", { staticClass: "auth-subtitle" }, [
-          _vm._v("Simple and Clean Admin Template")
+          _vm._v("Laravel & Vuejs SPA Admin Starter")
         ]),
         _vm._v(" "),
         _c("div", { staticClass: "auth-label" }, [_vm._v("Login")])
@@ -100265,10 +100374,10 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "auth-wrapper" }, [
       _c("div", { staticClass: "auth-header" }, [
-        _c("div", { staticClass: "auth-title" }, [_vm._v("Pongo")]),
+        _c("div", { staticClass: "auth-title" }, [_vm._v("Platinum")]),
         _vm._v(" "),
         _c("div", { staticClass: "auth-subtitle" }, [
-          _vm._v("Simple and Clean Admin Template")
+          _vm._v("Laravel & Vuejs SPA Admin Starter")
         ]),
         _vm._v(" "),
         _c("div", { staticClass: "auth-label" }, [_vm._v("Register")])
@@ -100407,7 +100516,12 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "auth-wrapper" }, [
       _c("div", { staticClass: "auth-user" }, [
-        _c("img", { attrs: { alt: "pongo", src: "/app/images/profile.jpg" } }),
+        _c("img", {
+          attrs: {
+            alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+            src: "/app/images/profile.jpg"
+          }
+        }),
         _vm._v(" "),
         _c("div", { staticClass: "auth-user-name" }, [_vm._v("John Doe")]),
         _vm._v(" "),
@@ -105937,7 +106051,10 @@ var render = function() {
           _c("div", { staticClass: "invoice-info" }, [
             _c("div", { staticClass: "company-info" }, [
               _c("img", {
-                attrs: { alt: "pongo", src: "/app/images/logo-blue.png" }
+                attrs: {
+                  alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                  src: "/app/images/logo-blue.png"
+                }
               }),
               _vm._v(" "),
               _c("div", { staticClass: "company-name" }, [
@@ -106037,7 +106154,10 @@ var render = function() {
             _c("div", { staticClass: "row" }, [
               _c("div", { staticClass: "col-md-6" }, [
                 _c("img", {
-                  attrs: { alt: "pongo", src: "/app/images/logo-blue.png" }
+                  attrs: {
+                    alt: "Platinum - Laravel & Vuejs SPA Admin Starter",
+                    src: "/app/images/logo-blue.png"
+                  }
                 }),
                 _vm._v(" "),
                 _c("span", { staticClass: "company-name" }, [
