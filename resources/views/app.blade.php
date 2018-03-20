@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Simple & Clean Admin Template</title>
+        <title>Platinum - Laravel & Vuejs SPA Admin Starter</title>
         <meta charset="utf-8">
         <meta content="ie=edge" http-equiv="x-ua-compatible">
-        <meta content="Rentpico" name="keywords">
-        <meta content="Rentpico" name="author">
-        <meta content="Rentpico" name="description">
+        <meta content="Platinum - Laravel & Vuejs SPA Admin Starter" name="keywords">
+        <meta content="Platinum - Laravel & Vuejs SPA Admin Starter" name="author">
+        <meta content="Platinum - Laravel & Vuejs SPA Admin Starter" name="description">
         <meta content="width=device-width, initial-scale=1" name="viewport">
         <link href="{{ asset('app/images/favicon.png') }}" rel="shortcut icon">
         <link href="{{ asset('app/images/favicon.png') }}" rel="apple-touch-icon">
