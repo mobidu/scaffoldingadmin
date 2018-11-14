@@ -12,7 +12,7 @@
 */
 
 // Auth Routes
-Route::post('auth/login', 'AuthController@login')->name('auth-login');
+Route::post('coba/login', 'AuthController@login');
 
 Route::group(['middleware' => 'verify.api.token'], function() {
 	
@@ -72,3 +72,7 @@ Route::get('{path}', function() {
 	return view('app');
 })->where('path', '.*');
 
+
+// Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

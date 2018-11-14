@@ -17,6 +17,7 @@ class AuthController extends Controller
 
 	public function login(Request $request)
 	{
+		// return response()->json($request->all(), 201);
 		$rules = [
 			'email' => 'required|email',
 			'password' => 'required'

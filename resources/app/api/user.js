@@ -1,6 +1,6 @@
 export default {
     getUsers(data, cb, errorCb) {
-        axios.post('user/get-users', data)
+        axios.post('api/user/get-users', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     getSingleUser(data, cb, errorCb) {
-        axios.post('user/get-single-user', data)
+        axios.post('api/user/get-single-user', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -26,7 +26,7 @@ export default {
         })
     },
     createUser(data, cb, errorCb) {
-        axios.post('user/create', data)
+        axios.post('api/user/create', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -39,7 +39,7 @@ export default {
         })
     },
     updateUser(data, cb, errorCb) {
-        axios.post('user/update', data)
+        axios.post('api/user/update', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -52,7 +52,7 @@ export default {
         })
     },
     deleteUser(data, cb, errorCb) {
-        axios.post('user/delete', data)
+        axios.post('api/user/delete', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

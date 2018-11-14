@@ -1,6 +1,6 @@
 export default {
     getProducts(data, cb, errorCb) {
-        axios.post('product/get-products', data)
+        axios.post('api/product/get-products', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     getSingleProduct(data, cb, errorCb) {
-        axios.post('product/get-single-product', data)
+        axios.post('api/product/get-single-product', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -26,7 +26,7 @@ export default {
         })
     },
     createProduct(data, cb, errorCb) {
-        axios.post('product/create', data)
+        axios.post('api/product/create', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -39,7 +39,7 @@ export default {
         })
     },
     updateProduct(data, cb, errorCb) {
-        axios.post('product/update', data)
+        axios.post('api/product/update', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -52,7 +52,7 @@ export default {
         })
     },
     deleteProduct(data, cb, errorCb) {
-        axios.post('product/delete', data)
+        axios.post('api/product/delete', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

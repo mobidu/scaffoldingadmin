@@ -1,6 +1,6 @@
 export default {
     getMenus(cb, errorCb) {
-        axios.post('get-menus')
+        axios.post('api/get-menus')
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     getUserMenus(cb, errorCb) {
-        axios.post('get-user-menus')
+        axios.post('api/get-user-menus')
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

@@ -1,6 +1,6 @@
 export default {
     getTransactions(data, cb, errorCb) {
-        axios.post('transaction/get-transactions', data)
+        axios.post('api/transaction/get-transactions', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     getSingleTransaction(data, cb, errorCb) {
-        axios.post('transaction/get-single-transaction', data)
+        axios.post('api/transaction/get-single-transaction', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

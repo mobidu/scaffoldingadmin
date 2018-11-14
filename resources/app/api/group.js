@@ -1,6 +1,6 @@
 export default {
     getAllGroups(cb, errorCb) {
-        axios.post('group/get-all-groups')
+        axios.post('api/group/get-all-groups')
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     getGroups(data, cb, errorCb) {
-        axios.post('group/get-groups', data)
+        axios.post('api/group/get-groups', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -26,7 +26,7 @@ export default {
         })
     },
     getSingleGroup(data, cb, errorCb) {
-        axios.post('group/get-single-group', data)
+        axios.post('api/group/get-single-group', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -39,7 +39,7 @@ export default {
         })
     },
     createGroup(data, cb, errorCb) {
-        axios.post('group/create', data)
+        axios.post('api/group/create', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -52,7 +52,7 @@ export default {
         })
     },
     updateGroup(data, cb, errorCb) {
-        axios.post('group/update', data)
+        axios.post('api/group/update', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -65,7 +65,7 @@ export default {
         })
     },
     deleteGroup(data, cb, errorCb) {
-        axios.post('group/delete', data)
+        axios.post('api/group/delete', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

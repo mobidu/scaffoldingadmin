@@ -1,6 +1,6 @@
 export default {
     login(data, cb, errorCb) {
-        axios.post('auth/login', data)
+        axios.post('api/coba/login', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

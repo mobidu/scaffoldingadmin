@@ -1,6 +1,6 @@
 export default {
     getPrivileges(data, cb, errorCb) {
-        axios.post('privilege/get-privileges', data)
+        axios.post('api/privilege/get-privileges', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     savePrivileges(data, cb, errorCb) {
-        axios.post('privilege/save', data)
+        axios.post('api/privilege/save', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)

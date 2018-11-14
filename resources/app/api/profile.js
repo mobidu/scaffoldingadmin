@@ -1,6 +1,6 @@
 export default {
     getProfile(cb, errorCb) {
-        axios.post('profile/get-profile')
+        axios.post('api/profile/get-profile')
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
@@ -13,7 +13,7 @@ export default {
         })
     },
     saveProfile(data, cb, errorCb) {
-        axios.post('profile/save', data)
+        axios.post('api/profile/save', data)
         .then(function (response) {
             if (response.data.status == 'success') {
                 cb(response.data.result)
